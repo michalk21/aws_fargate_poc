@@ -1,0 +1,6 @@
+
+docker_username = "README"
+docker_password = "README"
+
+image_name = "sample_rest_app"
+image_tag = "1.0.0"

@@ -1,0 +1,6 @@
+app_docker_image = "michalk21/sample_rest_app:1.0.0"
+
+app_access_ips = ["UPDATE_ME",]
+
+domain_name = "api.your.domain.xxx"
+aws_route53_zone_id = "XXXXXXXXXXXXXXX"

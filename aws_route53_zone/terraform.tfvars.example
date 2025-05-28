@@ -1,0 +1,3 @@
+domain_name       = "api.your.domain.xxx"
+aws_region        = "eu-central-1"
+hetzner_dns_token = "HETZNER_API"
